@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Fikile Ophola Noyila from Johannesburg<br><br>- 🔭 I’m an aspiring Data Engineer <br>- 📚 I'm currently learning to solve real-worl problems using AI<br>- ⚡ In my free time I read and listen to music<br>-🤝 I'm open to collaboration, mentorship and interesting projects </p>
+<p align="left">I'm Fikile Ophola Noyila<br><br>- 🔭 I’m an aspiring Data Engineer <br>- 📚 I'm currently learning to solve real-worl problems using AI<br>- ⚡ In my free time I read and listen to music<br>-🤝 I'm open to collaboration, mentorship and interesting projects </p>
 
 ###
 
